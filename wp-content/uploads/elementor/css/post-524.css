@@ -7,7 +7,7 @@
 }
 
 .elementor-524 .elementor-element.elementor-element-66d135b>.elementor-background-overlay {
-    background-color: brown;
+    background-color: #fff;
     opacity: 0.85;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -28,14 +28,14 @@
 
 .elementor-524 .elementor-element.elementor-element-90f7cd9:not(.elementor-motion-effects-element-type-background),
 .elementor-524 .elementor-element.elementor-element-90f7cd9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    /* background-image: linear-gradient(to right top, #a519c9, brown, #c100b0, #cb00a4, #d30099, #cf0084, #c80070, #bf005e, #a70042, #8d052b, #720a17, #590c03); */
-    background-color: brown;
+    /* background-image: linear-gradient(to right top, #a519c9, #fff, #c100b0, #cb00a4, #d30099, #cf0084, #c80070, #bf005e, #a70042, #8d052b, #720a17, #590c03); */
+    background-color: #fff;
 }
 
 .elementor-524 .elementor-element.elementor-element-90f7cd9 {
     border-style: solid;
     border-width: 3px 3px 3px 3px;
-    border-color: brown;
+    border-color: #fff;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
 }
 
@@ -304,10 +304,10 @@
     font-weight: 500;
     fill: var( --e-global-color-accent);
     color: var( --e-global-color-accent);
-    background-image: linear-gradient(to right top, #a519c9, brown, #c100b0, #cb00a4, #d30099, #cf0084, #c80070, #bf005e, #a70042, #8d052b, #720a17, #590c03);
+    background-image: linear-gradient(to right top, #a519c9, #fff, #c100b0, #cb00a4, #d30099, #cf0084, #c80070, #bf005e, #a70042, #8d052b, #720a17, #590c03);
     border-style: dashed;
     border-width: 2px 2px 2px 2px;
-    border-color: brown;
+    border-color: #fff;
     box-shadow: 2px 2px 0px 0px #523300;
 }
 
@@ -418,7 +418,7 @@
 }
 
 .elementor-524 .elementor-element.elementor-element-474b51a>.elementor-background-overlay {
-    background-color: brown;
+    background-color: #fff;
     opacity: 0.85;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -467,7 +467,7 @@
 }
 
 .elementor-524 .elementor-element.elementor-element-42d4c41>.elementor-background-overlay {
-    background-color: brown;
+    background-color: #fff;
     opacity: 0.85;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -665,7 +665,7 @@
 }
 
 .elementor-524 .elementor-element.elementor-element-62f68e8>.elementor-background-overlay {
-    background-color: brown;
+    background-color: #fff;
     opacity: 0.85;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -788,7 +788,7 @@
 }
 
 .elementor-524 .elementor-element.elementor-element-3c3528a>.elementor-background-overlay {
-    background-color: brown;
+    background-color: #fff;
     opacity: 0.85;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -910,7 +910,7 @@
 
 body.elementor-page-524:not(.elementor-motion-effects-element-type-background),
 body.elementor-page-524>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: brown;
+    background-color: #fff;
     background-image: url("https://trumpsfirstdog.com/wp-content/uploads/2024/05/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper-1-scaled.jpg");
     background-size: cover;
 }
